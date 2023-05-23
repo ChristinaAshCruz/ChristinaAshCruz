@@ -11,7 +11,8 @@
 
 ## 🌱 I’m currently learning:
 - Making my projects more responsive
-- Improving and re-learning my React and JS skills
+- Improving in: React and JS
+- Learning Tailwind CSS for the first time!
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/christina-ashley-cruz/)
