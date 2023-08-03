@@ -5,6 +5,8 @@
   />
 </p>
 
+# [👉 Check out my website! 👈](http://christina-cruz.tech/)
+
 ## 🔭 I’m currently working on:
 - Building my portfolio
 - Actively keeping connections and networking!
