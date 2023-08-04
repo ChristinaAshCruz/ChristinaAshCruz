@@ -1,11 +1,13 @@
+<div align="center">
+  
+# [✨ My Portfolio Website ✨](http://christina-cruz.tech/)
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/117312882/236395726-c68d0579-b333-4173-ba12-af3bd5c2ca69.png"
     alt="Christina's profile banner"
   />
 </p>
-
-# [👉 Check out my website! 👈](http://christina-cruz.tech/)
+</div>
 
 ## 🔭 I’m currently working on:
 - Building my portfolio
